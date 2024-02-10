@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762918637983",
+    "project_id": "invote-2e184",
+    "storage_bucket": "invote-2e184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762918637983:android:d52998a5475b21be1f6daa",
+        "android_client_info": {
+          "package_name": "com.example.invote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcL9tr2PoMoxmVTwKWhZseq7Q8E24Le0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
